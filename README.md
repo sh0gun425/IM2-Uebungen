@@ -61,3 +61,5 @@ Hier sind alle MMP, IM2 Lösungen
 <h1>09 localStorage</h1>
 
   Im Thema localStorage werden die Funktionen schreiben, lesen und löschen aufgearbeitet. Das ganze wird in einer sehr simplen Notizen-Anwendung geübt.
+  
+  <h2>Greets Joel</h2>
